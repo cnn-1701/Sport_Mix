@@ -83,7 +83,7 @@
         int resultStatus;      // 成绩状态
     } System;
 ### 系统特性
-- [x] 分文件编译（sports.h/sports.c/main.c）
+- [x] 分文件编译（sports.h/sports.c/test.c）
 
 - [x] 数据持久化（二进制文件存储）
 
