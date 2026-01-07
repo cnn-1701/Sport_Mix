@@ -59,30 +59,29 @@
     程序整合
 
 ### 数据结构
-c
-// 项目信息
-typedef struct Project {
-    char name[30];  // 项目名称
-    int rank;       // 名次
-    int score;      // 得分
-} Project;
+    // 项目信息
+    typedef struct Project {
+        char name[30];  // 项目名称
+        int rank;       // 名次
+        int score;      // 得分
+    } Project;
 
-// 学生信息  
-typedef struct Student {
-    char id[15];     // 学号
-    char name[20];   // 姓名
-    Project projects[3]; // 参赛项目
-    int projectCount;    // 实际项目数
-    int totalScore;      // 总得分
-} Student;
+    // 学生信息  
+    typedef struct Student {
+        char id[15];     // 学号
+        char name[20];   // 姓名
+        Project projects[3]; // 参赛项目
+        int projectCount;    // 实际项目数
+        int totalScore;      // 总得分
+    } Student;
 
-// 系统管理
-typedef struct System {
-    Student students[100]; // 最多100名学生
-    int count;             // 学生数量
-    int regStatus;         // 报名状态
-    int resultStatus;      // 成绩状态
-} System;
+    // 系统管理
+    typedef struct System {
+        Student students[100]; // 最多100名学生
+        int count;             // 学生数量
+        int regStatus;         // 报名状态
+        int resultStatus;      // 成绩状态
+    } System;
 ### 系统特性
 - [x] 分文件编译（sports.h/sports.c/main.c）
 
@@ -127,7 +126,7 @@ sports.h - 头文件：结构体定义、函数声明
 
 sports.c - 实现文件：所有功能函数
 
-main.c - 主程序：菜单与流程控制
+test.c - 主程序：菜单与流程控制
 
 sports_data.txt - 数据文件
 
