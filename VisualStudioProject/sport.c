@@ -616,7 +616,7 @@ void SearchInfo(System* sys)
 
         if (!found)
         {
-            printf("    暂无选手参加该项目\n");
+            printf("暂无选手参加该项目\n");
         }
         printf("\n");
     }
@@ -751,7 +751,7 @@ void ShowAll(System* sys)
 
             for (int j = 0; j < sys->students[i].projectCount; j++)
             {
-                printf("        %-20s\t%-10d\t%-10d\n",
+                printf("%-20s\t%-10d\t%-10d\n",
                     sys->students[i].projects[j].name,
                     sys->students[i].projects[j].rank,
                     sys->students[i].projects[j].score);

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\OneDrive\\\u8BFE\u7A0B\u8BBE\u8BA1\\Sport_Mix\\VisualStudioProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FFF41D38-6EE3-479D-B83C-3063BB5BBB7F}|Sport_Mix.vcxproj|D:\\OneDrive\\\u8BFE\u7A0B\u8BBE\u8BA1\\Sport_Mix\\VisualStudioProject\\sport.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFF41D38-6EE3-479D-B83C-3063BB5BBB7F}|Sport_Mix.vcxproj|solutionrelative:sport.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FFF41D38-6EE3-479D-B83C-3063BB5BBB7F}|Sport_Mix.vcxproj|D:\\OneDrive\\\u8BFE\u7A0B\u8BBE\u8BA1\\Sport_Mix\\VisualStudioProject\\sport.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FFF41D38-6EE3-479D-B83C-3063BB5BBB7F}|Sport_Mix.vcxproj|solutionrelative:sport.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "sport.c",
+              "DocumentMoniker": "D:\\OneDrive\\\u8BFE\u7A0B\u8BBE\u8BA1\\Sport_Mix\\VisualStudioProject\\sport.c",
+              "RelativeDocumentMoniker": "sport.c",
+              "ToolTip": "D:\\OneDrive\\\u8BFE\u7A0B\u8BBE\u8BA1\\Sport_Mix\\VisualStudioProject\\sport.c",
+              "RelativeToolTip": "sport.c",
+              "ViewState": "AgIAAPYAAAAAAAAAAAA6wPsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-08T00:25:19.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "sport.h",
               "DocumentMoniker": "D:\\OneDrive\\\u8BFE\u7A0B\u8BBE\u8BA1\\Sport_Mix\\VisualStudioProject\\sport.h",
               "RelativeDocumentMoniker": "sport.h",
               "ToolTip": "D:\\OneDrive\\\u8BFE\u7A0B\u8BBE\u8BA1\\Sport_Mix\\VisualStudioProject\\sport.h",
               "RelativeToolTip": "sport.h",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-01-07T22:08:34.378Z",
               "EditorCaption": ""
